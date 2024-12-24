@@ -23,7 +23,7 @@ ball_speed = [og_speed_x, og_speed_y]
 ball_pos = [random.randint(0,WIDTH), random.randint(0,paddle_y)]
 score = 0
 high_score = 0
-font = pygame.font.SysFont("Times New Roman", 20)
+font = pygame.font.Font("ping pong/font.ttf", 15)
 
 
 while running:
@@ -66,11 +66,12 @@ while running:
         if ball_pos[1] <= ball_radius:
             ball_speed[1] = -ball_speed[1]
             ball_pos[0] += 1
+            ball_pos[1] += 1
         #making the ball reverse direction if it hits the paddle
         if ball_pos[1] + ball_radius >= paddle.top and ball_pos[1] + ball_radius <= paddle.bottom and ball_pos[0] >= paddle.left and ball_pos[0] <= paddle.right:
             ball_speed[1] = -ball_speed[1]         
-            ball_speed[0] *= 1.15
-            ball_speed[1] *= 1.15
+            ball_speed[0] *= 1.1
+            ball_speed[1] *= 1.1
             score += 1
             if score > high_score:
                 high_score += 1
@@ -97,3 +98,5 @@ while running:
 #quites pygame and closes the window
 pygame.quit()
 sys.exit()
+
+#one_player_ping _pong
