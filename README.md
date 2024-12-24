@@ -9,9 +9,9 @@ The T-rex game that shows up when there is no internet
 Pygame library  
 
 **Prerequisites/Instructions:**  
-To start the game  
-  * install Python and the pygame library  
-  * run main.py  
+To start the game,
+* install Python and the pygame library
+* run main.py  
 
 **Controls:**  
 * press the space bar to make the dino jump  
