@@ -1,6 +1,7 @@
 # Ping-Pong
 
-<img src="[https://github.com/user-attachments/assets/959d08c7-11c8-4cec-ad8a-dc90ed4f4286](https://github.com/user-attachments/assets/ee0935a7-d3ae-4af0-aede-0780f40cac1e)" width="100%" alt="Ping Pong Game Demo">
+<img src="https://github.com/user-attachments/assets/ee0935a7-d3ae-4af0-aede-0780f40cac1e" width="100%" alt="Game Recording">
+
 
 **Description:**  
 A one player ping pong game
