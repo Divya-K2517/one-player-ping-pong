@@ -1,6 +1,6 @@
 # Ping-Pong
 
-<img src="https://github.com/user-attachments/assets/ee0935a7-d3ae-4af0-aede-0780f40cac1e" width="100%" alt="Game Recording">
+<img src="https://github.com/user-attachments/assets/ee0935a7-d3ae-4af0-aede-0780f40cac1e" width="70%" alt="Game Recording">
 
 
 **Description:**  
