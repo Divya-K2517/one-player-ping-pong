@@ -10,14 +10,14 @@ Pygame library
 
 **Prerequisites/Instructions:**  
 To start the game  
-  -install Python and the pygame library  
-  -run main.py  
+  * install Python and the pygame library  
+  * run main.py  
 
 **Controls:**  
--press the space bar to make the dino jump  
-0if the game ends, press "a" to restart  
+* press the space bar to make the dino jump  
+* if the game ends, press "a" to restart  
 
 **Credits:**  
--Font: https://www.dafont.com/bitmap.php  
--Dino png: https://github.com/shivamshekhar/Chrome-T-Rex-Rush.git  
--Cacti png: https://commons.wikimedia.org/wiki/File:1_Cactus_Chrome_Dino.webp  
+* Font: https://www.dafont.com/bitmap.php  
+* Dino png: https://github.com/shivamshekhar/Chrome-T-Rex-Rush.git  
+* Cacti png: https://commons.wikimedia.org/wiki/File:1_Cactus_Chrome_Dino.webp  
