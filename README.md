@@ -1,3 +1,4 @@
 # T-rex no internet game
 
-![] (https://github.com/Divya-K2517/one-player-ping-pong/blob/43bcb3a0d3ceba1a6b5027e7ecbd6795e18dc34a/Untitled%20design.gif)
+![Screen Recording 2024-12-24 at 5 03 51 PM (1)](https://github.com/user-attachments/assets/3369d74b-0539-4b40-90e9-e0b71058487c)
+
